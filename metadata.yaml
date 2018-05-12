@@ -1,0 +1,36 @@
+_repo: The-Competitive-Nephew_32960
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32960-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Glass, Montague
+    aliases:
+    - Glass, Montague Marsden
+    - Marsden, Montague Glass
+    birthdate: 1877
+    deathdate: 1934
+    gutenberg_agent_id: '7845'
+    url: http://www.gutenberg.org/2009/agents/7845
+    wikipedia: http://en.wikipedia.org/wiki/Montague_Glass
+description: ''
+gutenberg_issued: '2010-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32960'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- New York (State) -- New York -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Clothing trade -- New York (State) -- New York -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+tableOfContents: The competitive nephew -- Opportunity -- The sorrows of Seiden --
+  Serpents' teeth -- Making over Milton -- Birsky & Zapp -- The moving picture writes
+  -- Coercing Mr. Trinkmann -- "Rudolph where have you been" -- Caveat emptor.
+title: The Competitive Nephew
+url: http://www.gutenberg.org/ebooks/32960
